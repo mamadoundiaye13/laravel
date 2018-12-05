@@ -1,0 +1,66 @@
+.container img{
+    width: 100px;
+    height: 75px;
+}
+
+footer{
+    width: 100%;
+    height: 70px;
+    display: block;
+    padding-bottom: 0;
+    bottom: 0;
+
+}
+
+.mentionscgv{
+    background-color: #cce3f6;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    font: 14px Arial;
+    height: 70px;
+    vertical-align: top;
+}
+
+.position_cata{
+    width: 400px;
+    float: left;
+}
+
+button{
+    background-color: white;
+    border: none;
+}
+.mentionscgv a{
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+}
+
+.mentionscgv a img{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    padding: 2px;
+    border-left: 1px solid #333333;
+}
+
+
+.post-container{
+    width: 90%;
+
+    background-color: #FFF;
+    position: relative;
+    overflow: hidden;
+    padding: 20px;
+    display: block;
+    box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7), -1px 2px 20px rgba(255, 255, 255, 0.6) inset;
+    margin: 20px 40px 10px 40px;
+}
+
+.panier{
+
+    margin-right: -290px;
+}
+
+

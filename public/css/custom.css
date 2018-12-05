@@ -1,0 +1,13 @@
+.button, input[type="submit"]{
+    display: inline-block;
+    padding: 8px 20px;
+    background-color: #AAAAAA;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: none;
+}
+
+.button:hover, .button:focus, .button:active,
+input[type="submit"]:hover, input[type="submit"]:focus, input[type="submit"]:active{
+    background-color: #3399FF;
+}
